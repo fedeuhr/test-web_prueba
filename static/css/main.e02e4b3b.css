@@ -287,6 +287,7 @@ select {
   background-color: #000;
   background-color: var(--color-01);
   border: none;
+  outline: none;
   color: #75ded7;
   color: var(--color-02);
 }
