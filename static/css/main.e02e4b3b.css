@@ -291,6 +291,11 @@ select {
   color: #75ded7;
   color: var(--color-02);
 }
+
+.exito {
+  color: var(--color-02);
+}
+
 .form-content {
   display: flex;
   flex-direction: row;
