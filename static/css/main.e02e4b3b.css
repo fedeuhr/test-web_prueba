@@ -10,105 +10,105 @@ code {
 }
 @font-face {
   font-family: barlowBlack;
-  src: url(/static/media/BARLOW-BLACK.a124fb33fd1d8a32c163.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-BLACK.a124fb33fd1d8a32c163.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowBlackItalic;
-  src: url(/static/media/BARLOW-BLACKITALIC.3de0afe6e065f8dae051.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-BLACKITALIC.3de0afe6e065f8dae051.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowBold;
-  src: url(/static/media/BARLOW-BOLD.2dc03d2e89ef7d9e6ffb.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-BOLD.2dc03d2e89ef7d9e6ffb.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowBoldItalic;
-  src: url(/static/media/BARLOW-BOLDITALIC.0f546a41f3afd8d5a99d.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-BOLDITALIC.0f546a41f3afd8d5a99d.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowExtraBold;
-  src: url(/static/media/BARLOW-EXTRABOLD.4653fa55aa1a010f3955.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-EXTRABOLD.4653fa55aa1a010f3955.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowExtraBoldItalic;
-  src: url(/static/media/BARLOW-EXTRABOLDITALIC.2ac12abf5aad0f67e7cd.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-EXTRABOLDITALIC.2ac12abf5aad0f67e7cd.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowExtraLight;
-  src: url(/static/media/BARLOW-EXTRALIGHT.08efebd990fa7eb5163f.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-EXTRALIGHT.08efebd990fa7eb5163f.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowExtraLightItalic;
-  src: url(/static/media/BARLOW-EXTRALIGHTITALIC.f7ae614fe2ce8315eebd.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-EXTRALIGHTITALIC.f7ae614fe2ce8315eebd.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowItalic;
-  src: url(/static/media/BARLOW-ITALIC.46a01a113afb5eab9f66.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-ITALIC.46a01a113afb5eab9f66.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowLight;
-  src: url(/static/media/BARLOW-LIGHT.7e0099c5266078997e2c.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-LIGHT.7e0099c5266078997e2c.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowLightItalic;
-  src: url(/static/media/BARLOW-LIGHTITALIC.ce41daee57de21daf75d.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-LIGHTITALIC.ce41daee57de21daf75d.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowMedium;
-  src: url(/static/media/BARLOW-MEDIUM.40a6a9d2b5c96f1bb0c8.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-MEDIUM.40a6a9d2b5c96f1bb0c8.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowMediumItalic;
-  src: url(/static/media/BARLOW-MEDIUMITALIC.d66ceaafc8b97dc382ea.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-MEDIUMITALIC.d66ceaafc8b97dc382ea.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowRegular;
-  src: url(/static/media/BARLOW-REGULAR.952f8963756042f7ccf5.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-REGULAR.952f8963756042f7ccf5.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowSemiBold;
-  src: url(/static/media/BARLOW-SEMIBOLD.5a6be86b2fa0d383595c.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-SEMIBOLD.5a6be86b2fa0d383595c.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowSemiBoldItalic;
-  src: url(/static/media/BARLOW-SEMIBOLDITALIC.c6369c78d21665b65abe.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-SEMIBOLDITALIC.c6369c78d21665b65abe.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowThin;
-  src: url(/static/media/BARLOW-THIN.31c931deacf68a51d5a6.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-THIN.31c931deacf68a51d5a6.TTF)
     format("truetype");
 }
 @font-face {
   font-family: barlowThinItalic;
-  src: url(/static/media/BARLOW-THINITALIC.171d5dcdc4d71282c051.TTF)
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/BARLOW-THINITALIC.171d5dcdc4d71282c051.TTF)
     format("truetype");
 }
 @font-face {
   font-family: garamond;
-  src: url(/static/media/GARA.ebc0c981b418400d80ef.TTF) format("truetype");
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/GARA.ebc0c981b418400d80ef.TTF) format("truetype");
 }
 @font-face {
   font-family: garamondBold;
-  src: url(/static/media/GARABD.05ca692709d4a1d43c3c.TTF) format("truetype");
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/GARABD.05ca692709d4a1d43c3c.TTF) format("truetype");
 }
 @font-face {
   font-family: garamondItalic;
-  src: url(/static/media/GARAIT.a9746f3bdd6da54dc166.TTF) format("truetype");
+  src: url(https://fedeuhr.github.io/test-web_prueba/static/media/GARAIT.a9746f3bdd6da54dc166.TTF) format("truetype");
 }
 :root {
   --color-01: #000;
@@ -151,7 +151,7 @@ code {
   color: #61dafb;
 }
 .App-main {
-  background-image: url(./static/media/SLIDER.965fbee902693e9c8844.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/SLIDER.965fbee902693e9c8844.png);
   color: #fff;
   color: var(--color-03);
   display: flex;
@@ -175,7 +175,7 @@ code {
   grid-area: App-nosotros;
 }
 .nosotros-img {
-  background-image: url(./static/media/ICONO_Sillon.d9dd162ff0d135123692.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/ICONO_Sillon.d9dd162ff0d135123692.png);
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: 15rem;
@@ -191,7 +191,7 @@ code {
   width: 40%;
 }
 .App-novedad {
-  background-image: url(./static/media/BANNER_Sillon.364d5d643209f0da8b66.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/BANNER_Sillon.364d5d643209f0da8b66.png);
   background-size: cover;
   color: #fff;
   color: var(--color-03);
@@ -221,7 +221,7 @@ code {
   text-align: center;
 }
 .card1-img {
-  background-image: url(./static/media/IMG_C%C3%B3moda.138a0958c4c6bad8b499.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/IMG_C%C3%B3moda.138a0958c4c6bad8b499.png);
 }
 .card1-img,
 .card2-img {
@@ -230,10 +230,10 @@ code {
   width: 280px;
 }
 .card2-img {
-  background-image: url(./static/media/IMG_Sillon.9ad5047e26e1c5b621af.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/IMG_Sillon.9ad5047e26e1c5b621af.png);
 }
 .card3-img {
-  background-image: url(./static/media/IMG_MesaRatona.c668a2ee8150e8c3e2c2.png);
+  background-image: url(https://fedeuhr.github.io/test-web_prueba/static/media/IMG_MesaRatona.c668a2ee8150e8c3e2c2.png);
   background-size: cover;
   height: 280px;
   width: 280px;
